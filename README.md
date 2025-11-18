@@ -5,7 +5,7 @@ Front-end , Flutter Dev , AI Automation
 ---------------------------------------
 
 * 🌍  I'm based in Chiang Mai Thailand
-* 🖥️  See my portfolio at [My Profile](http://https://portfolio-fawn-one-89.vercel.app/)
+* 🖥️  See my portfolio at [My Profile](http://portfolio-fawn-one-89.vercel.app/)
 * ✉️  You can contact me at [puree.vongpunya@gmail.com](mailto:puree.vongpunya@gmail.com)
 * 🧠  I'm currently learning React , NextJS , TyleScript
 
